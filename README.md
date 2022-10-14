@@ -4,15 +4,11 @@ Hi there 👋,
 
 I am Myo Win, a full stack developer from Yangon, 🇲🇲 Myanmar. I enjoy learning new things and sharing what I have knew with others.
 
-<br />
-
 ## Follow Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Myo%20Win-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myo-win)](https://www.linkedin.com/in/myo-win)
 [![Twitter Badge](https://img.shields.io/badge/-M%20Win-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mw_optimizr)](https://twitter.com/mw_optimizr)
 [![StackOverflow Badge](https://img.shields.io/badge/-Myo%20Win-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users)](https://stackoverflow.com/users/2218290/myo-win)
-
-<br />
 
 ## I am passionate about
 
@@ -20,8 +16,6 @@ I am Myo Win, a full stack developer from Yangon, 🇲🇲 Myanmar. I enjoy lear
 - 🖥 Web Development
 - 🐧 Linux
 - 💼 Management and Leadership
-
-<br />
 
 ## Techs I Love
 
@@ -34,8 +28,6 @@ I am Myo Win, a full stack developer from Yangon, 🇲🇲 Myanmar. I enjoy lear
 
 I also love to contribute to open source projects.
 
-<br />
-
 ## Languages I Use
 
 <p>
@@ -47,8 +39,6 @@ I also love to contribute to open source projects.
 </p>
 
 I have also developed several web and mobile apps using these technologies and deployed them to production. I also took care of maintenance and security of these apps.
-
-<br />
 
 ## Frameworks I Know
 
@@ -93,8 +83,6 @@ I have also developed several web and mobile apps using these technologies and d
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-<br />
 
 ## My Contributions
 
