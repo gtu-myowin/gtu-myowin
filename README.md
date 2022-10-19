@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-I am Myo Win, a full stack developer from Yangon, 🇲🇲 Myanmar. I enjoy learning new things and sharing what I have knew with others.
+I am Myo Win, a full stack developer from Yangon, 🇲🇲 Myanmar. I enjoy learning new things and sharing what I knew with others.
 
 ## Follow Me
 
